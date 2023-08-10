@@ -1,4 +1,4 @@
 ---
-link: https://valentinhuber.me/fragen
+link: https://deep.valentinhuber.me
 layout: forward
 ---
