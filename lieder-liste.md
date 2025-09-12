@@ -40,5 +40,5 @@ Zur Zeit sind im Boxenstopp-Ordner folgende Lieder:
 
 
 
-## Noten, Chords, Texte, Tonarten
+## Noten, Chords, Texte, Übersetzungen, Tonarten
 … finden sich [hier](./noten.md)
