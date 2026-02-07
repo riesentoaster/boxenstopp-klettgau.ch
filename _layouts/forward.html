@@ -4,7 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Boxenstopp – Weiterleitung</title>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}Boxenstopp – Weiterleitung{% endif %}</title>
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}Boxenstopp – Weiterleitung{% endif %}" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}Boxenstopp – Weiterleitung{% endif %}" />
     <script>
       window.location.href = "{{ page.link }}"
     </script>
