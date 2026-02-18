@@ -46,5 +46,8 @@ Zur Zeit sind im Boxenstopp-Ordner folgende Lieder:
 - 10,000 Reasons (Bless The Lord)
 - Der Herr segne dich
 
+## Aufnahmen aller Lieder
+… finden sich [in dieser Playlist](./playlist.md).
+
 ## Noten, Chords, Texte, Übersetzungen, Tonarten
-… finden sich [hier](./noten.md)
+… finden sich [hier](./noten.md).
