@@ -24,7 +24,7 @@ Zur Zeit sind im Boxenstopp-Ordner folgende Lieder:
 - I chume zu dir
 - Ja ich glaube
 - Lob
-- Lobe den Herren
+- Lobe den Herren, den mächtigen König
 - Lobe den Herrn meine Seele
 - Min Herr und min Gott
 - Mir erhebed dich & Du bisch der Höchsti
